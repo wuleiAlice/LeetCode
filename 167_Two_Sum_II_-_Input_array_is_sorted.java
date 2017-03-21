@@ -1,6 +1,3 @@
-
-
-
 /*
  Author:     Alice, Du Weichao
  Date:       08 Feb 2017
